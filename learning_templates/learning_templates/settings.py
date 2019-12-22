@@ -25,7 +25,7 @@ SECRET_KEY = 's2l(@-a5_cxaqc=1x(00xrx=1l&e^8nj0+aop!a!-_assyi^za'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['community.pythonanywhere.com']
+ALLOWED_HOSTS = ['community.pythonanywhere.com', 'subhaaspa.pythonanywhere.com']
 
 
 # Application definition
